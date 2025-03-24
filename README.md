@@ -39,8 +39,8 @@ The dataset contains:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/KaranMunoth/Sales_Data_Analysis.git
+   cd Sales_Data_Analysis
    ```
 2. Install dependencies:
    ```bash
